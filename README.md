@@ -12,14 +12,6 @@
 在线阅读链接：[LLMs Interview Note](http://wdndev.github.io/llm_interview_note)
 
 
-## 注意：
-
-相关答案为自己撰写，若有不合理地方，请指出修正，谢谢！
-
-欢迎关注微信公众号，会不定期更新LLM内容，以及一些面试经验：
-
- <img src=https://github.com/wdndev/personal/blob/main/image/llmers_weixin.jpg width = "427" height = "156" alt="weixin" />
-
 
 ## 目录
 
